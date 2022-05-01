@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^index.html/?$ /ashiq_sha/
+RewriteRule ^https://muzu85.github.io/ashiq_portfolio/index.html/?$ /ashiq_sha/
